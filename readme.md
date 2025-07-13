@@ -1,1 +1,1 @@
-This Repository is WIP pacman repo with Metapac and Abroot
+Repository to Host a Custom Pacman Repository that holds Metapac and ABroot
